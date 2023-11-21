@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marebrava
+- 👋 Hi, I’m @marebrava, junior programmer, currently living in Brazil
 - 👀 I’m interested in get my first job as a programmer
 - 🌱 I’m currently learning Node.JS, Python, HTML and CSS
 - 💞️ I’m looking to collaborate on any projects that can give me a challenge
